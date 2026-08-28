@@ -1,1 +1,0 @@
-# product-posting-app
